@@ -1,1 +1,0 @@
-This is the source for the website [walleth.org](http://walleth.org)
